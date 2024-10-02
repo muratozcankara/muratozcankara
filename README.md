@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratozcankara" alt="muratozcankara" /></a> </p>
 
-- 🔭 I’m currently working on [codesei](codesei.dev)
+- 🔭 I’m currently working on codesei.dev
 
 - 📫 How to reach me **https://x.com/codesei_dev**
 
