@@ -7,7 +7,7 @@
 - previously on METISL2
 - previously worked on Concordium L1
 
-- 📫 How to reach me **https://x.com/codesei_dev**
+- 📫 How to reach me **muratozcankara@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
