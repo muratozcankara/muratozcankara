@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on codesei.dev (The Ultimate Developer Hub for SEI Builders, where developers can collaborate, innovate & build)
 - previously on METISL2
-- previosly worked on Concordium L1
+- previously worked on Concordium L1
 
 - 📫 How to reach me **https://x.com/codesei_dev**
 
