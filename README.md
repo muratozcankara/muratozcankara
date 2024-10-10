@@ -4,8 +4,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratozcankara" alt="muratozcankara" /></a> </p>
 
 - 🔭 I’m currently working on **codesei.dev** (The Ultimate Developer Hub for SEI Builders, where developers can collaborate, innovate & build)
-- previously on METISL2
-- previously worked on Concordium L1
+- previously on METISL2 & previously worked on Concordium L1 (web3)
+- Arcelik (BEKO) Global Web2
 
 - 📫 How to reach me **muratozcankara@gmail.com**
 
